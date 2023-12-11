@@ -25,13 +25,6 @@
                 </video>
             </div>
         </div>
-
-
-
-
-
-
-
     </div>
 </template>
 <style>

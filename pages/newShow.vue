@@ -16,9 +16,9 @@
   <div style="width: 32px; height: 32px; left: 612px; top: 132px; position: absolute; backdrop-filter: blur(4px)">
     <div style="width: 32px; height: 32px; left: -0px; top: 0px; position: absolute; background: #009378"></div>
   </div>
-  <img style="width: 269px; height: 179px; left: 22px; top: 237px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)" src="https://via.placeholder.com/269x179" />
-  <img style="width: 269px; height: 179px; left: 22px; top: 440px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)" src="https://via.placeholder.com/269x179" />
-  <img style="width: 269px; height: 179px; left: 22px; top: 643px; position: absolute" src="https://via.placeholder.com/269x179" />
+  <img style="width: 269px; height: 179px; left: 22px; top: 237px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)" src="https://images.unsplash.com/photo-1499348287264-a2603bc210c9?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+  <img style="width: 269px; height: 179px; left: 22px; top: 440px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)" src="https://images.unsplash.com/photo-1558137342-c555eb754f71?q=80&w=2360&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+  <img style="width: 269px; height: 179px; left: 22px; top: 643px; position: absolute" src="https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjB8fGVkdWNhdGlvbnxlbnwwfHwwfHx8MA%3D%3D" />
   <div style="width: 2px; height: 34px; left: 219px; top: 129px; position: absolute; background: #009378; border-radius: 2px"></div>
   <div style="width: 3px; height: 30px; left: 205px; top: 148px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; background: #009378; border-radius: 2px"></div>
   <div style="width: 61px; height: 61px; left: 1010px; top: 126px; position: absolute; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 9999px"></div>
