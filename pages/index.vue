@@ -2,28 +2,7 @@
 </script>
 <template>
   <div style="width: 1280px; height: 832px; position: relative; background: white">
-    <div style="
-        width: 98px;
-        height: 25px;
-        left: 62px;
-        top: 21px;
-        position: absolute;
-        color: rgba(0, 0, 0, 0.55);
-        font-size: 16px;
-        font-family: Inter;
-        font-weight: 700;
-        line-height: 71px;
-        word-wrap: break-word;
-      ">
-      施南乡汇
-    </div>
-    <img style="
-        width: 120px;
-        height: 23px;
-        left: 28px;
-        top: 17px;
-        position: absolute;
-      " src="https://via.placeholder.com/120x23" />
+
     <div style="
         width: 1398px;
         height: 701px;
@@ -108,7 +87,8 @@
               line-height: 14px;
               word-wrap: break-word;
             ">
-            进入
+            <a href="/videos">进入</a>
+
           </div>
         </div>
       </div>
@@ -126,7 +106,7 @@
             align-items: center;
             display: inline-flex;
           ">
-          <img style="width: 614px; height: 546px" src="https://images.unsplash.com/photo-1697393162085-461efd09e6e5?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+          <img style="width: 614px; height: 546px" src="/index1.png" />
         </div>
       </div>
     </div>
@@ -139,159 +119,13 @@
         background: linear-gradient(225deg, #64e185 0%, #57007b 100%);
         border-radius: 9999px;
       "></div>
-    <div style="
-        width: 1440px;
-        padding-left: 25px;
-        padding-right: 25px;
-        padding-top: 10px;
-        padding-bottom: 10px;
-        left: -160px;
-        top: 0px;
-        position: absolute;
-        background: white;
-        box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.1);
-        justify-content: space-between;
-        align-items: center;
-        display: inline-flex;
-      ">
-      <div style="
-          width: 180px;
-          height: 59px;
-          padding-top: 17.41px;
-          padding-bottom: 17.09px;
-          padding-left: 14.35px;
-          padding-right: 33.26px;
-          justify-content: flex-start;
-          align-items: center;
-          display: flex;
-        ">
-        <div style="width: 132.39px; height: 24.5px; position: relative"></div>
-      </div>
-      <div style="
-          height: 45px;
-          padding-top: 10px;
-          padding-bottom: 10px;
-          box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-          justify-content: space-between;
-          align-items: center;
-          display: flex;
-        ">
-        <div style="
-            justify-content: flex-start;
-            align-items: center;
-            gap: 10px;
-            display: flex;
-          ">
-          <div style="
-              color: #4a5568;
-              font-size: 20px;
-              font-family: Inter;
-              font-weight: 700;
-              line-height: 25px;
-              word-wrap: break-word;
-            ">
-            精品课程
-          </div>
-        </div>
-        <div style="
-            justify-content: flex-start;
-            align-items: center;
-            gap: 10px;
-            display: flex;
-          ">
-          <div>
-            <span style="
-                color: #4a5568;
-                font-size: 20px;
-                font-family: Inter;
-                font-weight: 700;
-                line-height: 25px;
-                word-wrap: break-word;
-              ">行业资讯</span><span style="
-                color: #4a5568;
-                font-size: 16px;
-                font-family: Inter;
-                font-weight: 700;
-                line-height: 25px;
-                word-wrap: break-word;
-              ">
-            </span>
-          </div>
-        </div>
-        <div style="
-            justify-content: flex-start;
-            align-items: center;
-            gap: 10px;
-            display: flex;
-          ">
-          <div style="
-              color: #4a5568;
-              font-size: 20px;
-              font-family: Inter;
-              font-weight: 700;
-              line-height: 25px;
-              word-wrap: break-word;
-            ">
-            社区讨论
-          </div>
-        </div>
-        <div style="
-            justify-content: flex-start;
-            align-items: center;
-            gap: 10px;
-            display: flex;
-          ">
-          <div style="
-              color: #4a5568;
-              font-size: 20px;
-              font-family: Inter;
-              font-weight: 700;
-              line-height: 25px;
-              word-wrap: break-word;
-            ">
-            我的
-          </div>
-        </div>
-        <div style="
-            justify-content: flex-start;
-            align-items: center;
-            gap: 10px;
-            display: flex;
-          ">
-          <div></div>
-        </div>
-      </div>
-      <div style="
-          padding-left: 25px;
-          padding-right: 25px;
-          padding-top: 14px;
-          padding-bottom: 14px;
-          background: linear-gradient(225deg, #66f786 0%, #57007b 100%);
-          border-radius: 5px;
-          justify-content: center;
-          align-items: center;
-          gap: 10px;
-          display: flex;
-        ">
-        <div style="
-            color: #fafafa;
-            font-size: 14px;
-            font-family: Inter;
-            font-weight: 600;
-            line-height: 14px;
-            word-wrap: break-word;
-          ">
-          联系我们
-        </div>
-      </div>
-    </div>
     <img style="
         width: 120px;
         height: 88.54px;
         left: 18px;
         top: 0px;
         position: absolute;
-      " src="https://unsplash.com/photos/man-in-black-jacket-sitting-beside-black-flat-screen-computer-monitor-rWE7bTqgMJE" />
+      " src="/logo.png" />
   </div>
   <div style="width: 1280px; height: 832px; position: relative; background: white">
     <div style="

@@ -26,10 +26,10 @@
       <div style="width: 19px; height: 19px; left: -0px; top: 0px; position: absolute; background: #009378"></div>
     </div>
     <div style="width: 1093px; height: 38px; left: 58px; top: 141px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 11px; border: 1px #6A9861 solid"></div>
-    <img style="width: 277px; height: 197px; left: 48px; top: 607px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 36px" src="https://via.placeholder.com/277x197" />
-    <img style="width: 277px; height: 197px; left: 340px; top: 607px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 36px" src="https://via.placeholder.com/277x197" />
-    <img style="width: 277px; height: 197px; left: 643px; top: 607px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 36px" src="https://via.placeholder.com/277x197" />
-    <img style="width: 277px; height: 197px; left: 935px; top: 607px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 36px" src="https://via.placeholder.com/277x197" />
+    <img style="width: 277px; height: 197px; left: 48px; top: 607px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 36px" src="/videos4.png" />
+    <img style="width: 277px; height: 197px; left: 340px; top: 607px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 36px" src="/videos2.png" />
+    <img style="width: 277px; height: 197px; left: 643px; top: 607px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 36px" src="/videos3.png" />
+    <img style="width: 277px; height: 197px; left: 935px; top: 607px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 36px" src="/videos0.png" />
     <div style="width: 195px; height: 32px; left: 664px; top: 750px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 25px; word-wrap: break-word">教育引领乡村振兴：一个村庄的蜕变历程</div>
     <div style="width: 195px; height: 32px; left: 959px; top: 749px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 25px; word-wrap: break-word">乡村振兴正当时，村民教育显身手</div>
     <div style="width: 40px; height: 40px; left: 1161px; top: 753px; position: absolute; background: white; border-radius: 9999px"></div>
@@ -38,37 +38,7 @@
     <div style="width: 40px; height: 40px; left: 274px; top: 753px; position: absolute; background: white; border-radius: 9999px"></div>
     <div style="width: 72px; height: 72px; left: 589px; top: 804px; position: absolute; background: linear-gradient(225deg, #F76680 0%, #57007B 100%); border-radius: 9999px"></div>
     <div style="width: 138px; height: 19px; left: 78px; top: 154px; position: absolute; color: rgba(0, 0, 0, 0.45); font-size: 14px; font-family: Inter; font-weight: 600; line-height: 14px; word-wrap: break-word">点击搜索</div>
-    <div style="width: 98px; height: 25px; left: 62px; top: 21px; position: absolute; color: rgba(0, 0, 0, 0.55); font-size: 16px; font-family: Inter; font-weight: 700; line-height: 71px; word-wrap: break-word">施南乡汇</div>
-    <img style="width: 120px; height: 23px; left: 28px; top: 17px; position: absolute" src="https://via.placeholder.com/120x23" />
-    <div style="width: 1440px; padding-left: 25px; padding-right: 25px; padding-top: 10px; padding-bottom: 10px; left: -160px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.10); justify-content: space-between; align-items: center; display: inline-flex">
-      <div style="width: 180px; height: 59px; padding-top: 17.41px; padding-bottom: 17.09px; padding-left: 14.35px; padding-right: 33.26px; justify-content: flex-start; align-items: center; display: flex">
-        <div style="width: 132.39px; height: 24.50px; position: relative"></div>
-      </div>
-      <div style="height: 45px; padding-top: 10px; padding-bottom: 10px; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); justify-content: space-between; align-items: center; display: flex">
-        <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
-          <div style="color: black; font-size: 20px; font-family: Inter; font-weight: 700; line-height: 25px; word-wrap: break-word">精品课程</div>
-        </div>
-        <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
-          <div><span style="color: #4A5568; font-size: 20px; font-family: Inter; font-weight: 700; line-height: 25px; word-wrap: break-word">行业资讯</span><span style="color: #4A5568; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 25px; word-wrap: break-word"> </span></div>
-        </div>
-        <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
-          <div style="color: #4A5568; font-size: 20px; font-family: Inter; font-weight: 700; line-height: 25px; word-wrap: break-word">社区讨论</div>
-        </div>
-        <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
-          <div style="color: #4A5568; font-size: 20px; font-family: Inter; font-weight: 700; line-height: 25px; word-wrap: break-word">我的 </div>
-        </div>
-        <div style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
-          <div></div>
-        </div>
-      </div>
-      <div style="padding-left: 25px; padding-right: 25px; padding-top: 14px; padding-bottom: 14px; background: linear-gradient(225deg, #66F786 0%, #57007B 100%); border-radius: 5px; justify-content: center; align-items: center; gap: 10px; display: flex">
-        <div style="color: #FAFAFA; font-size: 14px; font-family: Inter; font-weight: 600; line-height: 14px; word-wrap: break-word">联系我们</div>
-      </div>
-    </div>
-    <div style="width: 168px; height: 79px; left: 230px; top: 0px; position: absolute; background: rgba(217, 217, 217, 0.50)"></div>
-    <img style="width: 1157px; height: 286px; left: 55px; top: 295px; position: absolute; border-radius: 42px" src="https://via.placeholder.com/1157x286" />
-    <img style="width: 1px; height: 2px; left: 683px; top: 436px; position: absolute" src="https://via.placeholder.com/1x2" />
-    <img style="width: 120px; height: 88.54px; left: 22px; top: 0px; position: absolute" src="https://via.placeholder.com/120x89" />
+    <img style="width: 1157px; height: 286px; left: 55px; top: 295px; position: absolute; border-radius: 42px" src="/videos1.png" />
     <div style="width: 160px; height: 52px; left: 67px; top: 750px; position: absolute; color: white; font-size: 16px; font-family: Inter; font-weight: 700; line-height: 25px; word-wrap: break-word">教育兴农，振兴在望：一个村庄</div>
   </div>
 </template>
