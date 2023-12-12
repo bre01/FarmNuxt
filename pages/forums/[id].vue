@@ -1,0 +1,22 @@
+<script setup>
+</script>
+<template>
+   <div style="width: 1280px; height: 832px; position: relative; background: white">
+  <div style="width: 1280px; height: 268px; left: 0px; top: -94px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 42px; border: 1px black solid"></div>
+  <div style="width: 1197px; height: 359px; left: 41px; top: 207px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 38px; border: 1px black solid"></div>
+  <div style="width: 1128px; height: 15px; left: 79px; top: 624px; position: absolute; background: #D9D9D9"></div>
+  <div style="width: 1128px; height: 15px; left: 79px; top: 707px; position: absolute; background: #D9D9D9"></div>
+  <div style="width: 1128px; height: 15px; left: 79px; top: 790px; position: absolute; background: #D9D9D9"></div>
+  <div style="width: 1197px; height: 359px; left: 41px; top: 610px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 38px; border: 1px black solid"></div>
+  <img style="width: 76px; height: 76px; left: 41px; top: 45px; position: absolute; border-radius: 9999px; border: 1px #83A87B solid" src="https://plus.unsplash.com/premium_photo-1678344170545-c3edef92a16e?q=80&w=3871&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+  <div style="width: 1128px; height: 15px; left: 79px; top: 846px; position: absolute; background: #D9D9D9"></div>
+  <div style="width: 1128px; height: 15px; left: 79px; top: 838px; position: absolute; background: #D9D9D9"></div>
+  <img style="width: 62px; height: 62px; left: 75px; top: 232px; position: absolute; border-radius: 9999px; border: 1px #83A87B solid" src="https://images.unsplash.com/photo-1444858291040-58f756a3bdd6?q=80&w=2048&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+  <img style="width: 76px; height: 76px; left: 75px; top: 624px; position: absolute; border-radius: 9999px; border: 1px #83A87B solid" src="https://images.unsplash.com/photo-1444858291040-58f756a3bdd6?q=80&w=2048&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D    " />
+  <div style="left: 165px; top: 8px; position: absolute; color: black; font-size: 20px; font-family: Inter; font-weight: 700; line-height: 71px; word-wrap: break-word">传承乡土文化，弘扬家乡精神</div>
+  <div style="width: 936px; height: 129px; left: 155px; top: 54px; position: absolute; text-align: center; color: black; font-size: 14px; font-family: Inter; font-weight: 200; line-height: 28.50px; word-wrap: break-word">近年来，随着国家对农村改革的深入推进，我们的家乡也迎来了前所未有的发展机遇。作为乡镇居民，我们肩负着共谋发展大计的重要使命，应该积极参与到农村改革中来，为家乡的发展贡献力量。农村改革是一项系统工程，涉及到农村经济、政治、文化和社会等方方面面。在这个过程中，我们需要充分发挥自身的优势和作用，积极参与到农村改革的各个环节中来。首先，我们可以关注农村经济发展。农村经济是农村改革的核心内容之一，也是乡</div>
+  <div style="left: 66px; top: 311px; position: absolute; color: black; font-size: 14px; font-family: Inter; font-weight: 200; line-height: 28.50px; word-wrap: break-word">乡土文化是一种源于本地、具有独特魅力的文化形态，包含着丰富的历史、民俗、艺术、人文等多种元素。它代表着家乡人民的智慧和创造力，也是我们与外界交流、沟通的重要桥梁。<br/>传承和弘扬乡土文化，需要我们采取积极的措施。首先，我们可以加强对乡土文化的保护和传承。通过搜集、整理和记录当地的历史、民俗、艺术等资料，保护好乡土文化的载体和遗址，<br/>让后人能够更好地了解和认识乡土文化。其次，我们可以积极推广乡土文化。通过举办文化活动、展览、演出等形式，向外界展示乡土文化的魅力，吸引更多的人来到家乡体验和感受乡<br/>土文化的氛围。同时，我们也可以通过教育途径，让更多的人了解和认识乡土文化，培养他们对家乡的归属感和自豪感。<br/>最后，我们也可以将乡土文化融入到经济发展中来。通过开发具有乡土特色的文化产品、旅游项目等，将乡土文化转化为经济优势，带动家乡的经济发展。<br/>同时，也可以通过这些项目，让更多的人深入了解和体验乡土文化，提高家乡的知名度和美誉度。<br/>总之，传承和弘扬乡土文化是我们每一个人的责任和使命。只有通过我们每个人的努力和参与，才能让更多的人了解和认识我们的家乡，让乡土文化的魅力得以传承和发扬光大！</div>
+  <div style="width: 1115px; left: 75px; top: 730px; position: absolute; color: black; font-size: 14px; font-family: Inter; font-weight: 200; line-height: 28.50px; word-wrap: break-word">鼓励乡土文化的创新和发展。我们可以结合现代元素和传统元素，创新和发展乡土文化，使其更具时代感和吸引力。例如，可以通过举办乡土文化艺术比赛、音乐节等形式，鼓励艺术家和民间艺人展示和创新乡土文化。加强乡土文化的交流与合作。我们可以与其他地区开展乡土文化的交流与合作，互相学习、借鉴和分享经验。通过举办乡土文化节、展览等活动，邀请其他地区的文化团体和艺术家来家乡交</div>
+  <div style="width: 783px; height: 129px; left: -3028px; top: 752px; position: absolute; color: #514D4D; font-size: 15px; font-family: Inter; font-weight: 200; line-height: 28.50px; word-wrap: break-word">乡村振兴背景下，某乡村正在进行一场别开生面的村民教育探索与实践。该村结合当地特色和产业需求，为村民提供实用技能和知识培训，助力他们更好地参与乡村建设和经济发展。通过这种方式，村民不仅提升了自身</div>
+</div> 
+</template>
